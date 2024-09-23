@@ -1,5 +1,5 @@
 
-% -------- Barzaghi Giuseppe Liquid Mixture Density Calculator --------- %
+% ----------------  Liquid Mixture Density Calculator ----------------- %
 % Giovanni Correra - 09/2024 %
 
 clc
